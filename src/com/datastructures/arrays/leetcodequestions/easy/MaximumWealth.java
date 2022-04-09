@@ -1,4 +1,4 @@
-package com.datastructures.arrays;
+package com.datastructures.arrays.leetcodequestions.easy;
 /**
  * Leetcode problem number 1672
  * Tag - Array, Easy
