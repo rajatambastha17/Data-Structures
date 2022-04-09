@@ -5,7 +5,12 @@ package com.datastructures.arrays.leetcodequestions.easy;
  */
 
 public class EvenDigits {
-    public int findNumbers(int[] nums) {
+
+    public static void main(String[] args) {
+        int[] nums={1,23,6,7576,2,1,63,665,23};
+        System.out.println(findNumbers(nums));
+    }
+    public static int findNumbers(int[] nums) {
         int count = 0;
         for(int num : nums) {
             int numberOfDigits = countDigits(num);
@@ -15,7 +20,7 @@ public class EvenDigits {
         }
         return count;
     }
-    public int countDigits(int num) {
+    public static int countDigits(int num) {
         int count = 0;
         if(num<10) {
             return ++count;
