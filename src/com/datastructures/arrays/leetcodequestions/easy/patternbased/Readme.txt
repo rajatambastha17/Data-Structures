@@ -1,0 +1,1 @@
+This package contains sub-packages having the problem which are based on same specific pattern, like binary search..
