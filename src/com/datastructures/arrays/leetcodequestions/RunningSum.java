@@ -1,4 +1,4 @@
-package com.datastructures.arrays.leetcodequestions.easy;
+package com.datastructures.arrays.leetcodequestions;
 
 /**
  * 1480. Running Sum of 1d Array

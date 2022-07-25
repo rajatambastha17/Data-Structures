@@ -1,4 +1,4 @@
-package com.datastructures.arrays.leetcodequestions.easy;
+package com.datastructures.arrays.leetcodequestions;
 
 /**
  * 1929. Concatenation of Array
