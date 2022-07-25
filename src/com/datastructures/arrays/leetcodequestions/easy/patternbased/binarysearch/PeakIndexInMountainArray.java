@@ -1,5 +1,7 @@
 package com.datastructures.arrays.leetcodequestions.easy.patternbased.binarysearch;
 
+//https://leetcode.com/problems/find-peak-element/
+//https://leetcode.com/problems/peak-index-in-a-mountain-array/
 public class PeakIndexInMountainArray {
     public static void main(String[] args) {
 
