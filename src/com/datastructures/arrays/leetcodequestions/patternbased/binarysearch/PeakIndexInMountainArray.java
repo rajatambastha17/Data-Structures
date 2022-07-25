@@ -1,4 +1,4 @@
-package com.datastructures.arrays.leetcodequestions.medium;
+package com.datastructures.arrays.leetcodequestions.patternbased.binarysearch;
 
 //https://leetcode.com/problems/find-peak-element/
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/

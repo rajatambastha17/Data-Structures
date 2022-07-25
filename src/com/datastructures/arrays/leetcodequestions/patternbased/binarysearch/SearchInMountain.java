@@ -1,4 +1,4 @@
-package com.datastructures.arrays.leetcodequestions.easy.patternbased.binarysearch;
+package com.datastructures.arrays.leetcodequestions.patternbased.binarysearch;
 
 // https://leetcode.com/problems/find-in-mountain-array/
 public class SearchInMountain {

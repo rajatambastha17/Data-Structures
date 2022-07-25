@@ -1,4 +1,4 @@
-package com.datastructures.arrays.leetcodequestions.easy;
+package com.datastructures.arrays.leetcodequestions;
 
 /**
  * 1920. Build Array from Permutation

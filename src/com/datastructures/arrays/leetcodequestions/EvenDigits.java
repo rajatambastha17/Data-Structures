@@ -1,4 +1,4 @@
-package com.datastructures.arrays.leetcodequestions.easy;
+package com.datastructures.arrays.leetcodequestions;
 
 /**
  * 1295. Find Numbers with Even Number of Digits
