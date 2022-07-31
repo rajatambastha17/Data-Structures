@@ -4,7 +4,7 @@ public class InfiniteArray {
 
     public static void main(String[] args) {
         int[] arr = {2, 4, 6, 8, 10, 12, 13, 15, 17, 19, 21, 24, 29, 32, 43, 45, 46, 47, 48, 49, 54, 78};
-        int result = getIndexFromArray(arr, 43);
+        int result = getIndexFromArray(arr, 2);
         System.out.print("Index: " + result);
 
     }
